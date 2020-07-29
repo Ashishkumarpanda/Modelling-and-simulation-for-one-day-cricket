@@ -70,6 +70,7 @@ https://www.kaggle.com/saivamshi/cricket-world-cup-2019-players-data
 eda_insights.ipynb shows various visualizations and insights from the dataset.
 
 random_forest_classifier.ipynb shows application of random forest classifier on the dataset and shows several combinations and predicts which team will win the particular match.
+(uses the uploaded datasets - these datasets are also taken from kaggle)
 
 rfc_confusion_matrix.ipynb shows the confusion matrix obtained on applying random forest classifier.
 
